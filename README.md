@@ -1,216 +1,86 @@
+<img src="assets/journal-header.png" alt="FTW Data Engineering Journal. Czekinah Tolentino. One session, one entry, one commit. A new theme every week." width="100%">
 
-# FTW Data Engineering Journal Template
+# FTW Data Engineering Journal
 
-A simple repo for two things:
+![batch](https://img.shields.io/badge/batch-12-0F3D1F?style=flat-square) ![track](https://img.shields.io/badge/track-data_engineering-43B02A?style=flat-square) ![entries](https://img.shields.io/badge/entries-3-F26B1D?style=flat-square) ![status](https://img.shields.io/badge/status-still_on_the_road-2E8B2E?style=flat-square)
 
-1. practice Git in small, low-pressure steps
-2. document your Data Engineering bootcamp journey
+One session, one entry, one commit.
 
-This is for beginners. Your notes do not need to be polished. They just need to be honest, clear, and committed regularly.
+This is where I write down what actually happened on FTW Saturdays, in the voice I use at 1 a.m. The LinkedIn version is the polished one. This is the one with the receipts.
 
----
+## Route so far
 
-## Do This First
+| Stop | Date | Theme | Entry |
+|---|---|---|---|
+| 06 | 2026-08-29 | merged to main | [The Week Everything Became Traceable](journal/2026-08-29-day6.md) |
+| 07 | 2026-09-05 | change | [Same Saturday, Different Everything](journal/2026-09-05-day7.md) |
+| 08 | 2026-09-12 | detour | [Heavy Detour, Same Road](journal/2026-09-12-day8.md) |
+| 09 | 2026-09-19 | ... | NYC Mobility. Coming up. |
 
-1. Copy `templates/entry.md`
-2. Rename it to something like `journal/2026-08-26-day1.md`
-3. Write 3 short bullets
-4. Run 3 Git commands
-5. Stop
+Weeks 1 to 5 happened before this journal existed. They live on [LinkedIn](https://www.linkedin.com/in/czekinah/recent-activity/all/).
 
-That is already a successful session.
+<details>
+<summary><b>You: why does every week look different</b></summary>
 
-```bash
-git add .
-git commit -m "Add Day 1 journal"
-git push
+<br>
+
+Because every week felt different. Each Saturday gets its own theme and colours on LinkedIn, and the same theme runs the banner at the top of that week's entry here. Week 6 was a commit graph. Week 7 was a butterfly on a journey line. Week 8 is a green taxi on an NYC street. I do not know what Week 9 is yet. That is the point.
+
+</details>
+
+## How an entry works
+
+<details>
+<summary><b>The sections, and why they are there</b></summary>
+
+<br>
+
+- **Today in one sentence**: if you read nothing else, read this
+- **What I learned**: numbered stops, each with a check badge (see below)
+- **Terms I am still learning**: the words I could not use in a sentence yet
+- **What confused me**: written down on purpose, so future me can see it got resolved
+- **One small next step**: checkboxes. I come back and tick them
+- **Git checkpoint**: proof that the entry was a Git rep, not just a note
+- **Evidence from today**: photos, repos, links
+- **Reflection** and **Mood or meme**: the honest part
+
+</details>
+
+<details>
+<summary><b>The "You:" toggles</b></summary>
+
+<br>
+
+The questions inside the collapsible blocks are the ones I imagine a reader asking. Open them for the longer answer, skip them for the short version. The entry makes sense either way.
+
+</details>
+
+## Check badges
+
+Every stop gets a badge, borrowed from the data quality checks we write in class.
+
+| Badge | Meaning |
+|---|---|
+| ![PASS](https://img.shields.io/badge/check-PASS-2E8B2E?style=flat-square) | Understood it. Could explain it to a groupmate |
+| ![WARN](https://img.shields.io/badge/check-WARN-D9740A?style=flat-square) | Got through it. Still chewing on it |
+| ![FAIL](https://img.shields.io/badge/check-FAIL-C0392B?style=flat-square) | Did not land. Reopened in a later entry |
+| ![NEW](https://img.shields.io/badge/check-NEW-F26B1D?style=flat-square) | Something that had not happened before |
+
+## Where else I keep receipts
+
+- LinkedIn, the weekly carousel version: [linkedin.com/in/czekinah](https://www.linkedin.com/in/czekinah/)
+- Week 9 group project: [nyc-mobility-pipeline](https://github.com/cricraps/nyc-mobility-pipeline)
+- Week 6 group project: [Week6-Instacart-Pipeline](https://github.com/jg0901/Week6-Instacart-Pipeline)
+- Portfolio: [czekinah.github.io](https://czekinah.github.io)
+
+## Folder guide
+
+```
+journal/    one file per session, YYYY-MM-DD-dayN.md
+assets/     photos, banners, and the carousel covers
+templates/  the starting files, untouched, in case you want to start your own
 ```
 
----
+## Credits
 
-## Start Here
-
-Create your own copy with **Use this template** on GitHub.
-
-If you prefer working locally:
-
-```bash
-git clone https://github.com/ogbinar/ftw-de-journal.git
-```
-
-You can also edit in the browser with [github.dev](https://docs.github.com/en/codespaces/the-githubdev-web-based-editor).
-
----
-
-## What This Repo Is For
-
-Many people in a bootcamp are still getting used to:
-
-- Git
-- GitHub
-- Markdown
-- technical vocabulary
-- writing about what they learned
-
-This repo gives you one safe habit:
-
-**one class or study session = one journal entry = one Git commit**
-
-That is enough.
-
----
-
-## The Easiest Workflow
-
-1. Copy `templates/entry.md`
-2. Save it in `journal/`
-3. Write short notes after class or after self-study
-4. Commit your change
-5. Push it to GitHub
-
-If you want more prompts later, use `templates/entry-extended.md`.
-
-Example filename:
-
-```text
-journal/2026-08-26-day1.md
-```
-
-Example commit:
-
-```bash
-git add .
-git commit -m "Add Day 1 journal"
-git push
-```
-
-If you only remember one rule, remember this:
-
-**small notes, small commits, often**
-
----
-
-## What A Good Enough Entry Looks Like
-
-This is enough:
-
-```markdown
-# Journal - 2026-08-26 - Day 1
-
-## What I learned
-- I learned what a repository is.
-
-## What confused me
-- I still mix up Git and GitHub.
-
-## One small next step
-- [ ] Make one more practice commit
-```
-
-Messy is okay. Short is okay. Incomplete is okay.
-
----
-
-## Minimum Viable Journal Entry
-
-If you are tired or overwhelmed, write only these:
-
-- what I learned today
-- what confused me
-- one next step
-
-That still counts as a good entry.
-
----
-
-## Folder Guide
-
-- `templates/` - starting files you can copy
-- `journal/` - your actual entries
-- `assets/` - optional images and extras
-
----
-
-## What These Git Commands Mean
-
-- `git add .` - prepare your changes
-- `git commit -m "Add Day 1 journal"` - save a checkpoint with a message
-- `git push` - upload your checkpoint to GitHub
-
-You do not need to memorize everything on day 1. Repetition is the goal.
-
----
-
-## Suggested Structure
-
-```text
-journal/
-  2026-08-26-day1.md
-  2026-09-02-day2.md
-  2026-09-09-day3.md
-  2026-09-16-day4.md
-```
-
-You can also name files by topic:
-
-```text
-journal/2026-08-26-sql-basics.md
-journal/2026-08-27-git-practice.md
-```
-
----
-
-## Helpful Habits for Data Engineering
-
-You do not need to master these yet. Ignore this section at first if you want. Just start noticing these ideas over time.
-
-- Keep the original data untouched when possible.
-- Clean data in a separate step.
-- Write down assumptions, not just answers.
-- Prefer repeatable steps over memory-based manual work.
-- Explain where data came from and where it goes next.
-- Break work into small changes that are easier to check.
-
----
-
-## Markdown Basics
-
-This repo uses [Markdown](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax), which is just a simple way to format notes.
-
-```markdown
-# Big heading
-## Smaller heading
-- bullet
-- another bullet
-**bold**
-`code`
-```
-
-You do not need fancy formatting. Plain bullet points are enough.
-
----
-
-## How This Helps With Git
-
-This repo is not just for note-taking. It is a safe place to practice:
-
-- creating a file
-- editing a file
-- committing a change
-- pushing to GitHub
-- building confidence through repetition
-
-Every new entry is another Git rep.
-
----
-
-## Using Your Journal in Standups or Demos
-
-If you need to share progress, your journal already gives you a script:
-
-- what we worked on
-- what I understood
-- what is still unclear
-- what I will do next
-
-That is already a strong update.
+Built from [ogbinar/ftw-de-journal](https://github.com/ogbinar/ftw-de-journal), Sir Myk's journal template for FTW scholars. Its one rule still holds: small notes, small commits, often.
