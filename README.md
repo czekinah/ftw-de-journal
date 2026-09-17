@@ -1,4 +1,8 @@
-<img src="assets/journal-header.png" alt="FTW Data Engineering Journal. Czekinah Tolentino. One session, one entry, one commit. A new theme every week." width="100%">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/journal-header-dark.png">
+  <source media="(prefers-color-scheme: light)" srcset="assets/journal-header-light.png">
+  <img src="assets/journal-header-light.png" alt="FTW Data Engineering Journal. Czekinah Tolentino. One session, one entry, one commit. A new theme every week. A blue cat sits at stop 08 on a route of paw prints." width="100%">
+</picture>
 
 # FTW Data Engineering Journal
 
