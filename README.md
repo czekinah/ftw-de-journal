@@ -1,12 +1,12 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/journal-header.png">
   <source media="(prefers-color-scheme: light)" srcset="assets/journal-header-light.png">
-  <img src="assets/journal-header-light.png" alt="FTW Data Engineering Journal. Czekinah Tolentino. One session, one entry, one commit. A new theme every week. A blue cat sits at stop 08 on a route of paw prints." width="100%">
+  <img src="assets/journal-header-light.png" alt="FTW Data Engineering Journal. Czekinah Tolentino. One session, one entry, one commit. A new theme every week. A blue cat sits at stop 09 on a route of paw prints." width="100%">
 </picture>
 
 # FTW Data Engineering Journal
 
-![batch](https://img.shields.io/badge/batch-12-0F3D1F?style=flat-square) ![track](https://img.shields.io/badge/track-data_engineering-43B02A?style=flat-square) ![entries](https://img.shields.io/badge/entries-3-F26B1D?style=flat-square) ![status](https://img.shields.io/badge/status-still_on_the_road-2E8B2E?style=flat-square)
+![batch](https://img.shields.io/badge/batch-12-0F3D1F?style=flat-square) ![track](https://img.shields.io/badge/track-data_engineering-43B02A?style=flat-square) ![entries](https://img.shields.io/badge/entries-4-F26B1D?style=flat-square) ![status](https://img.shields.io/badge/status-still_on_the_road-2E8B2E?style=flat-square)
 
 One session, one entry, one commit.
 
@@ -19,7 +19,7 @@ This is where I write down what actually happened on FTW Saturdays, in the voice
 | 06 | 2026-08-29 | merged to main | [The Week Everything Became Traceable](journal/2026-08-29-day6.md) |
 | 07 | 2026-09-05 | change | [Same Saturday, Different Everything](journal/2026-09-05-day7.md) |
 | 08 | 2026-09-12 | detour | [Heavy Detour, Same Road](journal/2026-09-12-day8.md) |
-| 09 | 2026-09-19 | ... | NYC Mobility. Coming up. |
+| 09 | 2026-09-19 | production | [Completed Successfully, Next Run Queued](journal/2026-09-19-day9.md) |
 
 Weeks 1 to 5 happened before this journal existed. They live on [LinkedIn](https://www.linkedin.com/in/czekinah/recent-activity/all/).
 
@@ -28,7 +28,7 @@ Weeks 1 to 5 happened before this journal existed. They live on [LinkedIn](https
 
 <br>
 
-Because every week felt different. Each Saturday gets its own theme and colours on LinkedIn, and the same theme runs the banner at the top of that week's entry here. Week 6 was a commit graph. Week 7 was a butterfly on a journey line. Week 8 is a green taxi on an NYC street. I do not know what Week 9 is yet. That is the point.
+Because every week felt different. Each Saturday gets its own theme and colours on LinkedIn, and the same theme runs the banner at the top of that week's entry here. Week 6 was a commit graph. Week 7 was a butterfly on a journey line. Week 8 was a green taxi on an NYC street. Week 9 is a terminal that says completed successfully. Week 10 is still in the queue.
 
 </details>
 
@@ -74,6 +74,7 @@ Every stop gets a badge, borrowed from the data quality checks we write in class
 
 - LinkedIn, the weekly carousel version: [linkedin.com/in/czekinah](https://www.linkedin.com/in/czekinah/)
 - Week 9 group project: [nyc-mobility-pipeline](https://github.com/cricraps/nyc-mobility-pipeline)
+- Week 9 study tool for the batch: [Road to Purr-fection](https://czekinah.github.io/databricks-de-associate-reviewer/)
 - Week 6 group project: [Week6-Instacart-Pipeline](https://github.com/jg0901/Week6-Instacart-Pipeline)
 - Portfolio: [czekinah.github.io](https://czekinah.github.io)
 
