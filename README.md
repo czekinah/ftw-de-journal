@@ -6,7 +6,7 @@
 
 # FTW Data Engineering Journal
 
-![batch](https://img.shields.io/badge/batch-12-0F3D1F?style=flat-square) ![track](https://img.shields.io/badge/track-data_engineering-43B02A?style=flat-square) ![entries](https://img.shields.io/badge/entries-4-F26B1D?style=flat-square) ![status](https://img.shields.io/badge/status-still_on_the_road-2E8B2E?style=flat-square)
+![batch](https://img.shields.io/badge/batch-12-0F3D1F?style=flat-square) ![track](https://img.shields.io/badge/track-data_engineering-43B02A?style=flat-square) ![entries](https://img.shields.io/badge/entries-5-F26B1D?style=flat-square) ![status](https://img.shields.io/badge/status-still_on_the_road-2E8B2E?style=flat-square)
 
 One session, one entry, one commit.
 
@@ -20,6 +20,7 @@ This is where I write down what actually happened on FTW Saturdays, in the voice
 | 07 | 2026-09-05 | change | [Same Saturday, Different Everything](journal/2026-09-05-day7.md) |
 | 08 | 2026-09-12 | detour | [Heavy Detour, Same Road](journal/2026-09-12-day8.md) |
 | 09 | 2026-09-19 | production | [Completed Successfully, Next Run Queued](journal/2026-09-19-day9.md) |
+| 10 | 2026-09-26 | field notes | [Last Lesson, First Team](journal/2026-09-26-day10.md) |
 
 Weeks 1 to 5 happened before this journal existed. They live on [LinkedIn](https://www.linkedin.com/in/czekinah/recent-activity/all/).
 
@@ -28,7 +29,7 @@ Weeks 1 to 5 happened before this journal existed. They live on [LinkedIn](https
 
 <br>
 
-Because every week felt different. Each Saturday gets its own theme and colours on LinkedIn, and the same theme runs the banner at the top of that week's entry here. Week 6 was a commit graph. Week 7 was a butterfly on a journey line. Week 8 was a green taxi on an NYC street. Week 9 is a terminal that says completed successfully. Week 10 is still in the queue.
+Because every week felt different. Each Saturday gets its own theme and colours on LinkedIn, and the same theme runs the banner at the top of that week's entry here. Week 6 was a commit graph. Week 7 was a butterfly on a journey line. Week 8 was a green taxi on an NYC street. Week 9 is a terminal that says completed successfully. Week 10 is a page from a field notebook, because the lessons ended and the writing down started.
 
 </details>
 
@@ -73,6 +74,7 @@ Every stop gets a badge, borrowed from the data quality checks we write in class
 ## Where else I keep receipts
 
 - LinkedIn, the weekly carousel version: [linkedin.com/in/czekinah](https://www.linkedin.com/in/czekinah/)
+- Capstone, from week 10 onwards: [infra-project-monitoring](https://github.com/Buildabida/infra-project-monitoring)
 - Week 9 group project: [nyc-mobility-pipeline](https://github.com/cricraps/nyc-mobility-pipeline)
 - Week 9 study tool for the batch: [Road to Purr-fection](https://czekinah.github.io/databricks-de-associate-reviewer/)
 - Week 6 group project: [Week6-Instacart-Pipeline](https://github.com/jg0901/Week6-Instacart-Pipeline)
