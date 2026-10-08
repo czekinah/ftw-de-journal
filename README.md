@@ -6,7 +6,7 @@
 
 # FTW Data Engineering Journal
 
-![batch](https://img.shields.io/badge/batch-12-0F3D1F?style=flat-square) ![track](https://img.shields.io/badge/track-data_engineering-43B02A?style=flat-square) ![entries](https://img.shields.io/badge/entries-5-F26B1D?style=flat-square) ![status](https://img.shields.io/badge/status-still_on_the_road-2E8B2E?style=flat-square)
+![batch](https://img.shields.io/badge/batch-12-0F3D1F?style=flat-square) ![track](https://img.shields.io/badge/track-data_engineering-43B02A?style=flat-square) ![entries](https://img.shields.io/badge/entries-6-F26B1D?style=flat-square) ![status](https://img.shields.io/badge/status-still_on_the_road-2E8B2E?style=flat-square)
 
 One session, one entry, one commit.
 
@@ -21,6 +21,7 @@ This is where I write down what actually happened on FTW Saturdays, in the voice
 | 08 | 2026-09-12 | detour | [Heavy Detour, Same Road](journal/2026-09-12-day8.md) |
 | 09 | 2026-09-19 | production | [Completed Successfully, Next Run Queued](journal/2026-09-19-day9.md) |
 | 10 | 2026-09-26 | field notes | [Last Lesson, First Team](journal/2026-09-26-day10.md) |
+| 11 | 2026-10-03 | violet planner | [We Survived Capstone Week](journal/2026-10-03-day11.md) |
 
 Weeks 1 to 5 happened before this journal existed. They live on [LinkedIn](https://www.linkedin.com/in/czekinah/recent-activity/all/).
 
@@ -29,7 +30,7 @@ Weeks 1 to 5 happened before this journal existed. They live on [LinkedIn](https
 
 <br>
 
-Because every week felt different. Each Saturday gets its own theme and colours on LinkedIn, and the same theme runs the banner at the top of that week's entry here. Week 6 was a commit graph. Week 7 was a butterfly on a journey line. Week 8 was a green taxi on an NYC street. Week 9 is a terminal that says completed successfully. Week 10 is a page from a field notebook, because the lessons ended and the writing down started.
+Because every week felt different. Each Saturday gets its own theme and colours on LinkedIn, and the same theme runs the banner at the top of that week's entry here. Week 6 was a commit graph. Week 7 was a butterfly on a journey line. Week 8 was a green taxi on an NYC street. Week 9 is a terminal that says completed successfully. Week 10 is a page from a field notebook, because the lessons ended and the writing down started. Week 11 is a violet planner with day tabs down the side, because capstone week one ran on a schedule and I wore violet that Saturday.
 
 </details>
 
