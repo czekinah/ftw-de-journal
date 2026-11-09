@@ -25,7 +25,7 @@ This is where I write down what actually happened on FTW Saturdays, in the voice
 | 12 | 2026-10-10 | hard hat | [The Week I Practised Being Chosen](journal/2026-10-10-day12.md) |
 | 13 | 2026-10-17 | lava | [Almost. One More Week.](journal/2026-10-17-day13.md) |
 | 14 | 2026-10-23 | one room | [One Room, Seven Days](journal/2026-10-23-day14.md) |
-| 15 | 2026-10-24 | KITA | [Fifteen Minutes to Explain 6.5 Trillion Pesos](journal/2026-10-24-day15.md) |
+| 15 | 2026-10-24 | KITA | [Capstone and Graduation Day](journal/2026-10-24-day15.md) |
 
 Stop 14 has no Saturday of its own. It is the week we spent in one room, and its Saturday was capstone day, which is stop 15.
 
